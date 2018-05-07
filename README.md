@@ -1,5 +1,5 @@
 # Harmony ALM Rest Integration
-Innominds Harmony Framework Integration with HP ALM with through REST API.
+Innominds Harmony Framework Integration with HP ALM - through REST API.
 
 1. src/main/resources has mapping.csv file. This file has two columns viz,AutomationID and ALMTestID.
 2. Harmony Framework will utilize this mapping.csv file.
